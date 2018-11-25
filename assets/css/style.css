@@ -1,0 +1,22 @@
+body {
+    background: url("../images/dark-grey-terrazzo.png");
+}
+
+.jumbotron {
+    background: url("../images/skyscraper.png");
+    color: #17a2b8;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.brcolor{
+    border: 5px solid #17a2b8;
+}
+
+#train-table th,
+    td {
+      display: inline-block;
+      width: 16.575%;
+    }
